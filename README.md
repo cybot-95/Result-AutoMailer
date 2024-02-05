@@ -1,4 +1,7 @@
+# Note:
 **This is an updated version of zen-juen's(github.com/zen-juen) AutoRemind Mailer with an added option of sending attachment of results along with email with corresponding to students name**.
+I have used the Student_List.csv file which should contain student name and their email id's. Also Modified the code for sending results only.
+I have given the attachment code used in the file attachment.py and also retained the original autoremind created by zen-juen.
 
 
 
