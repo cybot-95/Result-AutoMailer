@@ -1,3 +1,8 @@
+**This is an updated version of zen-juen's(github.com/zen-juen) AutoRemind Mailer with an added option of sending attachment of results along with email with corresponding to students name**.
+
+
+
+
 # :e-mail: Automate Reminder Emails for Research Participants
 
 **AutoRemind** is a Python email automation system for sending customizable reminders to participants at different timepoints throughout a study.
